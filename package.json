@@ -26,7 +26,7 @@
     "eventemitter3": "^2.0.2",
     "extend-shallow": "^2.0.1",
     "get-fn-name": "^1.0.0",
-    "isobject": "^2.1.0",
+    "isobject": "^3.0.0",
     "lazy-cache": "^2.0.1",
     "static-extend": "^0.1.2",
     "try-catch-callback": "^2.0.0"
